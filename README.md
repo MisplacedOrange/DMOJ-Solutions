@@ -7,7 +7,7 @@ It’s mainly a collection of my accepted solutions, organized for reference and
 ## Contents
 
 - Solutions written in Java
-    - (for now)
+    - First ever c++!
 - Direct submissions as uploaded to DMOJ
 
 ## DMOJ Account
