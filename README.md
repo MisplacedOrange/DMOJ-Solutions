@@ -6,8 +6,7 @@ It’s mainly a collection of my accepted solutions, organized for reference and
 
 ## Contents
 
-- Solutions written in Java
-    - First ever c++!
+- string Solutions = Java && C++;
 - Direct submissions as uploaded to DMOJ
 
 ## DMOJ Account
