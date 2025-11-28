@@ -6,7 +6,7 @@ It’s mainly a collection of my accepted solutions, organized for reference and
 
 ## Contents
 
-- string Solutions = Java && C++;
+- Solutions in Java && C++;
 - Direct submissions as uploaded to DMOJ
 
 ## DMOJ Account
