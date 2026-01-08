@@ -7,12 +7,16 @@ It serves as a collection of my accepted submissions, primarily written in **Pyt
 ## Contents
 
 - Solutions in **Python**
-- Additional solutions in **Java** and **C++**
-- Problems from **DMOJ** and **LeetCode**
+- Additional Solutions in **Java** and **C++**
+- Problems from **DMOJ**, **CodeForces**, and **LeetCode**
 - Direct submissions as uploaded to the platforms
+- Miscellaneous Solutions from varied platforms.
 
 ## Profiles
 
+**Feel free to add me!**
 - [DMOJ Profile](https://dmoj.ca/submissions/user/MisplacedOrange/)
 - [LeetCode Profile](https://leetcode.com/u/MisplacedOrange/)
+- [CodeForces Profile](https://codeforces.com/profile/MisplacedOrange)
 - [Project Euler Profile](https://projecteuler.net/progress=MisplacedOrange) - Not Active
+
