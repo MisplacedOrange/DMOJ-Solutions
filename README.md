@@ -1,6 +1,6 @@
 # DMOJ & LeetCode Solutions
 
-This repository contains my competitive programming solutions for problems on **DMOJ (Don Mills Online Judge)** and **LeetCode**.
+This repository contains my competitive programming solutions for problems on **DMOJ**, **CodeForces**, and **LeetCode**
 
 It serves as a collection of my accepted submissions, primarily written in **Python**, with some solutions in **Java** and **C++**. This is organized for reference, practice, and progress tracking as I improve my problem-solving skills.
 
