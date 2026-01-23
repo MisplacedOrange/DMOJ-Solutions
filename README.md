@@ -15,8 +15,10 @@ It serves as a collection of my accepted submissions, primarily written in **Pyt
 ## Profiles
 
 **Feel free to add me!**
+
 - [DMOJ Profile](https://dmoj.ca/submissions/user/MisplacedOrange/)
 - [LeetCode Profile](https://leetcode.com/u/MisplacedOrange/)
 - [CodeForces Profile](https://codeforces.com/profile/MisplacedOrange)
 - [Project Euler Profile](https://projecteuler.net/progress=MisplacedOrange)
+- [Hackclub Flavortown](https://flavortown.hackclub.com/users/4649)
 
