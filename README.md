@@ -18,5 +18,5 @@ It serves as a collection of my accepted submissions, primarily written in **Pyt
 - [DMOJ Profile](https://dmoj.ca/submissions/user/MisplacedOrange/)
 - [LeetCode Profile](https://leetcode.com/u/MisplacedOrange/)
 - [CodeForces Profile](https://codeforces.com/profile/MisplacedOrange)
-- [Project Euler Profile](https://projecteuler.net/progress=MisplacedOrange) - Not Active
+- [Project Euler Profile](https://projecteuler.net/progress=MisplacedOrange)
 
