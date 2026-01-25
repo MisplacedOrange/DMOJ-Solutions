@@ -6,8 +6,7 @@ It serves as a collection of my accepted submissions, primarily written in **Pyt
 
 ## Contents
 
-- Solutions in **Python**
-- Additional Solutions in **Java** and **C++**
+- Solutions in **Python**, **Java**, and **C++**
 - Problems from **DMOJ**, **CodeForces**, and **LeetCode**
 - Direct submissions as uploaded to the platforms
 - Miscellaneous Solutions from varied platforms.
